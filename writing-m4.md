@@ -190,7 +190,13 @@ Kemudian saat ukuran layar masih di atas 900px maka tampilan
 akan berubah seperti gambar di bawah ini.<br>
 <img src="img/grid.jpg" width="400"><br><br>
 dan ketika ukuran layar di bawah 900px maka akan berubah kembali <br>
-<img src="img/grid1.jpg" width="400"><br><br>
+<img src="img/grid1.jpg" width="400"><br><br><br><br>
+
+- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
+- <b>git branch namabranchBaru</b> : Setelah pindah dan masuk ke branch sebelumnya, disini kita bisa membuat branch baru. Jangan lupa untuk masuk ke dalam branch baru ini kembali dengan sintaks "git switch namabranchBaru" yaa.
+- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
+
+
 
 ### **3. Bootstrap**
 
