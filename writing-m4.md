@@ -85,7 +85,12 @@ Setelah konflik sudah diperbaiki maka kita bisa melakukan git add . , git commit
 <img src="img/gitClone.jpg" width="600"><br>
 
 File terlah berhasil di clone di dalam direktori lokal bernama Skilvul dan folder yang di clone tersebut bernama "materi".<br>
-<img src="img/gitClone2.jpg" width="300"><br><br><br>
+<img src="img/gitClone2.jpg" width="300"><br><br><br><br>
+
+- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
+- <b>git branch namabranchBaru</b> : Setelah pindah dan masuk ke branch sebelumnya, disini kita bisa membuat branch baru. Jangan lupa untuk masuk ke dalam branch baru ini kembali dengan sintaks "git switch namabranchBaru" yaa.
+- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
+
 
 
 ### **2. Responsive Web**
@@ -192,9 +197,6 @@ akan berubah seperti gambar di bawah ini.<br>
 dan ketika ukuran layar di bawah 900px maka akan berubah kembali <br>
 <img src="img/grid1.jpg" width="400"><br><br><br><br>
 
-- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
-- <b>git branch namabranchBaru</b> : Setelah pindah dan masuk ke branch sebelumnya, disini kita bisa membuat branch baru. Jangan lupa untuk masuk ke dalam branch baru ini kembali dengan sintaks "git switch namabranchBaru" yaa.
-- <b>git switch namabranch</b> : Pindah ke branch yang lainnya.
 
 
 
