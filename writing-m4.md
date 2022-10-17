@@ -23,15 +23,15 @@ Pada dasarnya Git dan GitHub ini memiliki relasi atau hubungan, dimana saat kita
 
 <b>Membuat Organization pada github </b><hr><br>
 <img src = "img/organi1.jpg" width = "200">
-<img src = "img/organi2.jpg" width = "200"><br>
+<img src = "img/organi2.jpg" width = "400"><br>
 Kita dapat menambahkan anggota rekan/tim kita ke dalam organisasi tersebut, dan
 bekerjasama.
 <img src = "img/organi3.jpg" width = "400"><br><br>
 
 <b>Membuat Repository pada GitHub</b><hr><br>
 <img src="img/createRepo1.jpeg" width="200">
-<img src="img/createRepo2.jpeg" width="300">
-<img src="img/createRepo3.jpeg" width="300"><br><br>
+<img src="img/createRepo2.jpeg" width="400">
+<img src="img/createRepo3.jpeg" width="400"><br><br>
 
 
 
@@ -100,7 +100,7 @@ Responsive Web Merupakan sebuah metode yang ada pada dunia web development untuk
 <br><b>Tools untuk membuat website menjadi responsif</b><hr>
 Kita dapat menggunakan 4 cara untuk membuat website kita menjadi Responsif.<br><br>
 
-A. <b>Viewport</b> 
+A. <b>Viewport</b> <br> 
 
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -109,7 +109,7 @@ A. <b>Viewport</b>
 Contoh viewport:
 <img src="img/viewport.jpg" width="100%"><br>
 
-B. <b>Relative CSS Unit</b> 
+B. <b>Relative CSS Unit</b> <br> 
 Satuan ukur yang bersifat relative, depends on something.
 Disini kalau make px,cm, mm, point dia udah FIXED dia berdiri sendiri. Nah kalau RELATIVE ini tergantung pada sesuatu, contohnya:
 
@@ -129,7 +129,7 @@ Contoh :
 ```
 <br><br>
 
-C. <b>Media Query</b> 
+C. <b>Media Query</b> <br> 
 Media Query mirip dengan Viewport, hanya saja pada media query ini terdapat breakpoint, dimana bila breakpoint sudah ditentukan maka tampilan web akan berubah sesuai dari breakpoint yang ditentukan tersebut.
 
 ```
@@ -138,7 +138,7 @@ Media Query mirip dengan Viewport, hanya saja pada media query ini terdapat brea
 <img src="img/mediaquery.jpg" width="500"><br><br>
 
 
-D. <b>Flex</b> 
+D. <b>Flex</b> <br> 
 Pada flex kita dapat mengatur 1 dimensi, disini kita bisa menyesuaikan baris dan kolomnya.
 
 ```
@@ -162,8 +162,8 @@ akan berubah seperti gambar di bawah ini.<br>
 <img src="img/flex2.jpg" width="500"><br><br>
 
 
-E. <b>Grid</b> 
-Pada flex kita dapat mengatur 2 dimensi.
+E. <b>Grid</b><br> 
+Pada Grid kita dapat mengatur 2 dimensi.
 
 ```
 .cardsgrid {
@@ -204,7 +204,7 @@ mendesain website menjadi lebih mudah.<br><br><br>
 <b>Layout</b> <hr>
 Layout adalah kunci utama dalam Bootstrap, jika kita tidak memahami bagian ini maka kita tidak
 akan bisa menggunakan Bootstrap dengan baik. Layout merupakan inti dari Bootstrap, disini kita
-dapat mengatur dan mendesain bootstrap kita. Disini aku akan merangkum 4 bagian dari Layout :<br>
+dapat mengatur dan mendesain bootstrap kita. Disini aku akan merangkum 3 bagian dari Layout :<br>
 
 1. Breakpoints Bootstrap : Breakpoints merupakan titik acuan dimana tampilan website akan mulai berubah.
                             <br>Untuk Bootstrap sendiri memiliki titik acuan sebagai berikut : <br>
